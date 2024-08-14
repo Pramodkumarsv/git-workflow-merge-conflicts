@@ -1,1 +1,1 @@
-# git-workflow-merge-conflicts
+# git-workflow-merge-conflictsUpdated README with new information.
